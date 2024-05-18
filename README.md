@@ -15,7 +15,7 @@
 
 2. Rename `.env.example` to `.env.local` and update the following:
 
-   ```
+   ```bash
    NEXT_PUBLIC_SUPABASE_URL=[INSERT SUPABASE PROJECT URL]
    NEXT_PUBLIC_SUPABASE_ANON_KEY=[INSERT SUPABASE PROJECT API ANON KEY]
    ```
